@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 28
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "age": 22
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "email": "diana.prince@example.com",
+    "age": 30
+  },
+  {
+    "id": 29,
+    "name": "Masabo",
+    "email": "masabo.johnson@example.com",
+    "age": 28
+  },
+  {
+    "id": 29,
+    "name": "Masabo",
+    "email": "masabo.johnson@example.com",
+    "age": 28
+  },
+  {
+    "id": 20,
+    "name": "Emmy",
+    "email": "emmy.johnson@example.com",
+    "age": 28
+  }
+]
